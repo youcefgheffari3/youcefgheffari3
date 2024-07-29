@@ -27,6 +27,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![RAG](https://img.shields.io/badge/-RAG-333333?style=flat&logo=rag) &nbsp; 
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) &nbsp; 
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain) &nbsp; 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
 
