@@ -17,8 +17,8 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)\
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch) &nbsp; 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) &nbsp; 
@@ -28,9 +28,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![RAG](https://img.shields.io/badge/-RAG-333333?style=flat&logo=rag) &nbsp; 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) &nbsp; 
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)\
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css) &nbsp; 
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain) &nbsp; 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
