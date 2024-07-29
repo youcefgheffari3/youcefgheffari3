@@ -16,7 +16,6 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
@@ -27,6 +26,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![RAG](https://img.shields.io/badge/-RAG-333333?style=flat&logo=rag) &nbsp; 
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain) &nbsp; 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
