@@ -5,7 +5,7 @@
 
 💡 &nbsp;I like to explore new technologies and create new AI Models and develop them.\
 🎓 &nbsp;I'm currently studying Artificial Intelligence  at the Technologie and Science University of Oran, ALGERIA.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Natural Language  , and Robotics.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Computer Vision, Natural Language  , and Robotics.\
 ✍️ &nbsp;In my free time, I Like reading O'reilly books about AI and Machine Learning Systems and Watching Courses from COURSERA and IBM.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at gheffari.youcef.soufiane@gmail.com! I'll try to respond as soon as I can.\
