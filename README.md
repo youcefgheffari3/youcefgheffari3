@@ -17,7 +17,7 @@ I'm always open to networking, collaborations, and opportunities to contribute t
 
 ### 📫 How to Reach Me
 - 📧 Email: [gheffari.youcef.soufiane@gmail.com](mailto:gheffari.youcef.soufiane@gmail.com)  
-- 📄 [Résumé (CV)](https://github.com/youcefgheffari3/portfolio/Gheffari_Youcef_Resume.pdf)  
+- 📄 [Résumé (CV)](https://github.com/youcefgheffari3/portfolio/blob/master/Gheffari_Youcef_Resume.pdf)  
 - 🤝 [LinkedIn](https://linkedin.com/in/gheffari-youcef-soufiane-05947522a)  
 
 ---
