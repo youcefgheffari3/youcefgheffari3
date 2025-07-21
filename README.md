@@ -1,17 +1,17 @@
 ## 👋 Hello, I'm Gheffari Youcef Soufiane  
-### AI Engineer | Computer Vision & Machine Learning Enthusiast
+### AI Engineer | Postgraduate Researcher | Computer Vision & Machine Learning Enthusiast
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-I am an AI Engineer with a passion for developing innovative AI solutions, particularly in **Computer Vision** and **Machine Learning**. My work focuses on building intelligent systems that enable machines to perceive and understand visual data. I am deeply interested in the intersection of **Artificial Intelligence, Computer Vision, Natural Language Processing, and Robotics**.
+I am a postgraduate AI Engineer and researcher, with a strong focus on developing intelligent systems in the fields of **Computer Vision** and **Machine Learning**. My work centers on building AI models that enable machines to understand, analyze, and interact with the world through visual data. I am passionate about leveraging artificial intelligence to solve complex, real-world problems across domains such as computer vision, natural language processing, and robotics.
 
-Currently, I am pursuing my degree in **Artificial Intelligence at the University of Science and Technology of Oran (USTO), Algeria**, where I am further sharpening my skills and working on cutting-edge AI technologies.
+I am currently pursuing my **postgraduate studies in Artificial Intelligence** at the **University of Science and Technology of Oran (USTO), Algeria**, where I continue to refine my expertise and conduct research in applied AI.
 
-Beyond my academic and professional engagements, I dedicate time to continuous learning through **O'Reilly publications**, **Coursera**, and **IBM AI courses**, staying up-to-date with the latest advancements in AI and machine learning systems.
+Outside of academia, I actively engage in continuous learning through **O'Reilly publications**, **Coursera**, and **IBM AI programs**, expanding my knowledge in modern AI technologies and best practices in AI engineering.
 
-I am always open to conversations, collaborations, and opportunities where AI can make a meaningful impact.
+I'm always open to networking, collaborations, and opportunities to contribute to AI-focused projects or discussions.
 
 ---
 
