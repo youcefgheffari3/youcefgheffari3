@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I am a AI Engineer , with a strong focus on developing intelligent systems in the fields of **Computer Vision** and **Machine Learning**. My work centers on building AI models that enable machines to understand, analyze, and interact with the world through visual data. I am passionate about leveraging artificial intelligence to solve complex, real-world problems across domains such as computer vision, natural language processing, and robotics.
+I am an AI Engineer , with a strong focus on developing intelligent systems in the fields of **Computer Vision** and **Machine Learning**. My work centers on building AI models that enable machines to understand, analyze, and interact with the world through visual data. I am passionate about leveraging artificial intelligence to solve complex, real-world problems across domains such as computer vision, natural language processing, and robotics.
 
 I recently complete my **Master's studies in Artificial Intelligence** at the **University of Science and Technology of Oran (USTO), Algeria**, where I was actively developing my expertise in AI with a particular focus on **Computer Vision**. My ongoing academic and research efforts are aimed at building a strong foundation to advance towards a **PhD in Computer Vision**.
 
