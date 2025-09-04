@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Gheffari Youcef Soufiane  
-### AI Engineer | Postgraduate Researcher | Computer Vision & Machine Learning Enthusiast
+### AI Engineer | MSc in Artificial Intelligence | Computer Vision & Machine Learning Enthusiast
 
 ---
 
