@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Gheffari Youcef Soufiane  
+## 👋 Hello, I'm Youcef Soufiane Gheffari  
 ### AI Engineer | MSc in Artificial Intelligence | Computer Vision & Machine Learning Enthusiast
 
 ---
